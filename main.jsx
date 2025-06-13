@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 
 const App = () => (
-  <div className="min-h-screen bg-slate-900 text-white flex flex-col md:flex-row items-center justify-center p-6">
+  <div className="min-h-screen bg-slate-900 text-white flex flex-col md:flex-row items-center justify-center p-6"> 
     {/* LEFT SIDE: Banner */}
     <div className="w-full md:w-1/2 mb-6 md:mb-0">
       <img
