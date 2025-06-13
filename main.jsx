@@ -10,10 +10,10 @@ const App = () => (
       className="w-full max-w-5xl rounded-lg shadow-2xl border border-white mb-8"
     />
     <h1 className="text-4xl font-extrabold text-white mb-2 text-center">
-      Finesse In Business Academy
+    
     </h1>
     <p className="text-lg text-blue-200 mb-6 text-center">
-      From a JET Program Entrepreneur to Business Ownership
+    
     </p>
     <div className="flex gap-4">
       <a
