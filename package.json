@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "node index.js"
+}
 {
   "name": "finesse-academy-frontend",
   "version": "1.0.0",
