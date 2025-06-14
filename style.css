@@ -1,1 +1,17 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0f172a;
+  color: white;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+a {
+  color: #38bdf8;
+}
+
+h1, h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
 
